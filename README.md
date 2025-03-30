@@ -1,8 +1,11 @@
 ## Hi there 🧑‍💻 I am Ntsizwa Nkabane!
 🧑‍🎓I'm currently a student
+
 💻Aspiring software developer & Cybersecurity
+
 📧ntsizwankabane47@gmail.com
 
+🔍Skills: HTML, PYTHON, CSS, TAILWIND CSS
 
 <!--
 **TheLisper/TheLisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
